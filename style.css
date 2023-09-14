@@ -1,3 +1,28 @@
 a {
     text-decoration: none;
 }
+
+body {
+    margin: 2%;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+section > div {
+    max-height: 250px;
+    padding: 0% 10%;
+    
+}
+
+img {
+    height: 250px;
+}
