@@ -1,9 +1,10 @@
 html {
-    background-color: #cfe1ff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 body {
     margin: 2%;
+    background: #cfe1ff;
 }
 
 h1 {
