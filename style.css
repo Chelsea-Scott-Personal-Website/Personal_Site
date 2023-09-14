@@ -1,3 +1,31 @@
 html {
     background-color: #cfe1ff;
 }
+
+p {
+    margin: 0px;
+}
+
+img {
+    background-color: #c4c4c4;
+}
+
+.code1 {
+    margin-left: 3%;
+}
+
+.code2 {
+    margin-left: 6%;
+}
+
+.code3 {
+    margin-left: 9%;
+}
+
+.globalSizing {
+    margin: 1vh;
+}
+
+.leftImage {
+    width: 20%;
+}
