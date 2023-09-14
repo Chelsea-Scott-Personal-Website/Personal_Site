@@ -1,0 +1,30 @@
+nav {
+    background-color: red;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav > div {
+    width: 202px;
+    display: flex;
+    align-items: center;
+    font-size: larger;
+    margin: 0px 20px;
+    
+}
+
+.navHome > a {
+    color: black;
+}
+
+.navLinks {
+    justify-content: space-between;    
+}
+
+.navLinks > a {
+    margin: 4px;
+    padding: 4px;
+    color: white;
+    background-color: black;
+}
