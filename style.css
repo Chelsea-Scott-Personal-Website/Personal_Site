@@ -5,3 +5,8 @@ html {
 body {
     margin: 2%;
 }
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
