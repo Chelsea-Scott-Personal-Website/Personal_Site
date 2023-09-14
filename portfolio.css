@@ -1,0 +1,15 @@
+section {
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+section > div {
+    max-height: 250px;
+    padding: 0% 10%;
+    
+}
+
+img {
+    height: 250px;
+}

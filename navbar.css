@@ -1,12 +1,12 @@
 nav {
-    background-color: red;
+    background: #bacbe6;
     height: 50px;
     display: flex;
     justify-content: space-between;
 }
 
 nav > div {
-    width: 202px;
+    width: 240px;
     display: flex;
     align-items: center;
     font-size: larger;

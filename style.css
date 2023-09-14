@@ -1,9 +1,10 @@
-a {
-    text-decoration: none;
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 body {
-    margin: 2%;
+    margin: 20px;
+    background: #cfe1ff;
 }
 
 h1 {
@@ -11,18 +12,6 @@ h1 {
     justify-content: center;
 }
 
-section {
-    height: 250px;
-    display: flex;
-    justify-content: space-evenly;
-}
-
-section > div {
-    max-height: 250px;
-    padding: 0% 10%;
-    
-}
-
-img {
-    height: 250px;
+a {
+    text-decoration: none;
 }
