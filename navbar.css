@@ -6,7 +6,7 @@ nav {
 }
 
 nav > div {
-    width: 202px;
+    width: 240px;
     display: flex;
     align-items: center;
     font-size: larger;
