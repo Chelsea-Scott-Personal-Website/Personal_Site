@@ -1,14 +1,23 @@
 img {
-    width: 550px;
+    width: 600px;
 }
 
 .container {
     display: flex;
-    margin: 0% 20%;
+    justify-content: center;
+    /* margin: 0% 20%; */
 }
 
 .desc {
+    display: flex;
+    flex-direction: column;
     align-self: center;
     margin-left: 10px;
-    width: 183px;
+    width: 200px;
+}
+
+.desc > hr {
+    height: 2px;
+    background-color: black;
+    width: 200px;
 }
