@@ -6,7 +6,6 @@ nav {
 }
 
 nav > div {
-    width: 240px;
     display: flex;
     align-items: center;
     font-size: larger;
@@ -14,12 +13,16 @@ nav > div {
     
 }
 
+.navHome {
+    justify-content: flex-start;
+}
+
 .navHome > a {
     color: black;
 }
 
 .navLinks {
-    justify-content: space-between;    
+    justify-content: flex-end;    
 }
 
 .navLinks > a {
