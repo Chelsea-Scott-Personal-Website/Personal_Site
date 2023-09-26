@@ -18,9 +18,9 @@ a {
 
 .grow-on-hover {
     cursor: pointer;
-    transition: transform 0.3s ease; /* Adding a transition for smooth effect */
+    transition: transform 0.3s ease;
 }
 
 .grow-on-hover:hover {
-    transform: scale(1.1); /* Increase the size by 10% on hover */
+    transform: scale(1.1);
 }
